@@ -35,4 +35,4 @@ spring:
             required: true
           ssl:
             enable: true
-            trust: yourpassword
+            trust: yourhost
