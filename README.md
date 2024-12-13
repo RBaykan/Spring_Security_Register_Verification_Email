@@ -5,8 +5,8 @@ This project implements a user registration system with email validation using S
 
 - **User Registration**: Users can register with their details such as name, username, email, and password.
 - **Contiuonus Project** The relevant user information goes through the verification methods in the projects mentioned below. This project is a continuation of the mentioned projects;
-  - https://github.com/RBaykan/Spring_Security_Validating_Data
-  - https://github.com/RBaykan/Spring_Security_Validate_Data_With_Database
+  - https://github.com/RBaykan/Spring_Security_Register_Input_Check
+  - https://github.com/RBaykan/Spring_Security_Register_Validating_User
 - **Email Validation**: After registration, a verification email containing a confirmation link is sent to the user's email address.
 - **Token Based Validation**: The confirmation link contains a unique token that is used to verify the user's account.
 
